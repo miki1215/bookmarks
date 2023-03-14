@@ -16,7 +16,6 @@
 			"version": "latest"
 		}
 	},
-	
     "dockerFile": "Dockerfile",
     "settings": {
         "files.exclude": {

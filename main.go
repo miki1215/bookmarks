@@ -1,18 +1,14 @@
-cscscccscwcswiiiiiuuuuuhuuuiiiiih
-uuuuuhuuuiiiiihjjoihio
-dsfdsfiiiiihihiiiiiii
-ioj
-oijio
-iojoi:
+package main
+
+import (
+	"fmt"
+)
 
 
+type(
+	Name string
+)
 
-oijiopojjkjjk
-::i
-
-
-
-oijiopojjkjjk
-iiiiiiiiiiiiiiii``uu;wk
-
-jjk
+func main() {
+	fmt.Printf("fr")
+}
